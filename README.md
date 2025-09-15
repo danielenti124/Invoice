@@ -1,2 +1,2 @@
-# invoice1
-This is my first approach in learning git and github with respect to version control
+# invoice
+added my invoice to the git and github version
